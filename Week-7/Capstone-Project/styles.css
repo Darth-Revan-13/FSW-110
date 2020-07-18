@@ -1,0 +1,84 @@
+/* Mobile */
+@media only screen and (max-width: 768px) {
+    body {
+        background-color: black;
+    }
+    #topHalf {
+        background-image: 
+        linear-gradient(
+          rgba(0, 0, 0, 0.5),
+          rgba(0, 0, 0, 0.5)
+        ),
+        url(Fo4-us-communism-propaganda.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 692px;
+        color: white;
+        background-color: black;
+    }
+    #lists {
+        background-image:
+        linear-gradient(
+          rgba(0, 0, 0, 0.5),
+          rgba(0, 0, 0, 0.5)
+        ),
+        url(fallout_3__liberty_prime_by_emortal982_d8zdd47-fullview.jpg);
+        background-repeat: no-repeat;
+        height: 1143px;
+        color: white;
+        background-color: black;
+    }
+    #date1 {
+        list-style-type: none;
+    }
+    #date2 {
+        list-style-type: none;
+    }
+    #date3 {
+        list-style-type: none;
+    }
+    #date4 {
+        list-style-type: none;
+    }
+    #date5 {
+        list-style-type: none;
+    }
+    #date6 {
+        list-style-type: none;
+    }
+}
+/* Desktop */
+@media only screen and (min-width: 768px) {
+body {
+    background-color: black;
+}
+#topHalf {
+    background-image: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url(Fo4-us-communism-propaganda.jpg), url(Fo4-us-communism-propaganda2.jpg), url(347e513b9f2d2e425d9e8f42198f2cfc.jpg);
+    background-position: right, center, left;
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    height: 692px;
+    color: white;
+    background-color: black;
+}
+#lists {
+    background-image:
+    linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url(fallout_3__liberty_prime_by_emortal982_d8zdd47-fullview.jpg), url(High_resolution_wallpaper_background_ID_77700853447.jpg);
+    background-position: right, left;
+    background-repeat: no-repeat, no-repeat;
+    height: 1143px;
+    color: white;
+    background-color: black;
+}
+.date {
+    list-style-type: none;
+}
+}
