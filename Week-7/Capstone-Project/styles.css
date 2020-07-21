@@ -28,22 +28,7 @@
         color: white;
         background-color: black;
     }
-    #date1 {
-        list-style-type: none;
-    }
-    #date2 {
-        list-style-type: none;
-    }
-    #date3 {
-        list-style-type: none;
-    }
-    #date4 {
-        list-style-type: none;
-    }
-    #date5 {
-        list-style-type: none;
-    }
-    #date6 {
+    .date {
         list-style-type: none;
     }
 }
